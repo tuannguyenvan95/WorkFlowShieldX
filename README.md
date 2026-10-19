@@ -12,7 +12,7 @@
 
 The **WorkFlowShieldX** Intelligent Contract is deployed, finalized, and verified on GenLayer **studionet**:
 
-- **CONTRACT_ADDRESS:** `0xAF99ABE439A84a64fBba2d5107d89075f110b995`
+- **CONTRACT_ADDRESS:** `0x62F5F48A60040e88c1Ea5A8909c220CBCb41EE48`
 - **DEPLOYER_ADDRESS:** `0xf2949c471F6116042807772dd788D6fA0905DC97`
 - **NETWORK:** `studionet` (Chain ID: `61999` / `0xF1EF`)
 - **RPC_URL:** `https://studio.genlayer.com/api`

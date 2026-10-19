@@ -3,11 +3,11 @@
 **Portal Track:** Builder  
 **Contribution Type:** Intelligent Contracts  
 **Network:** studionet (Chain ID: 61999)  
-**Contract Address:** `0xAF99ABE439A84a64fBba2d5107d89075f110b995`  
+**Contract Address:** `0x62F5F48A60040e88c1Ea5A8909c220CBCb41EE48`  
 **Deployer Address:** `0xf2949c471F6116042807772dd788D6fA0905DC97`  
 **Transaction Hash:** `0xca8dc7820fab3ca755f623440e34d649330f9690f16ce589cc4da36bca25da42`  
 **Evidence URL 1:** `https://github.com/tuannguyenvan95/WorkFlowShieldX`  
-**Evidence URL 2:** `https://explorer-studio.genlayer.com/address/0xAF99ABE439A84a64fBba2d5107d89075f110b995`  
+**Evidence URL 2:** `https://explorer-studio.genlayer.com/address/0x62F5F48A60040e88c1Ea5A8909c220CBCb41EE48`  
 
 ---
 
@@ -38,5 +38,5 @@ We are pleased to submit WorkFlowShieldX for the GenLayer Builder Track:
 1. Core Decision on GenVM: Milestone inspection, PRD conformance grading, and escrow disbursement execute autonomously inside the Intelligent Contract via gl.nondet.web.render and gl.vm.run_nondet consensus.
 2. Robust Edge-Case Handling: When deliverables return 404, offline pages, or unparsable content, the consensus jury marks EVIDENCE_UNAVAILABLE, preserving 100% of the escrow without risk of loss. In addition, clients have a bounded safe cancellation path (cancel_project).
 3. Strict Storage Compliance: Full conformance with GenVM storage rules using @allow_storage @dataclass with bigint fields for scores, timestamps, and escrow accounting.
-4. Comprehensive Testing & Verification: 10/10 gltest unit tests passing across all lifecycle stages. Contract is finalized and verified on Studionet at address 0xAF99ABE439A84a64fBba2d5107d89075f110b995.
+4. Comprehensive Testing & Verification: 10/10 gltest unit tests passing across all lifecycle stages. Contract is finalized and verified on Studionet at address 0x62F5F48A60040e88c1Ea5A8909c220CBCb41EE48.
 ```
